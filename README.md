@@ -152,6 +152,9 @@ Players can check their token balance by calling the `balanceOf` function, passi
 
 To burn tokens that are no longer needed, call the `burn` function, specifying the amount of tokens to burn.
 
+Video Explanation
+To get a detailed explanation of the code and see its output, please watch the [Degen Gaming Token Demo Video](https://www.loom.com/share/d471dab85aa045adb0e3b0513eda22a3?sid=31386271-24bc-4c88-80ce-a8003264f8bc) where I provide a step-by-step walkthrough.
+
 ## Authors
 
 [Ayush Kathayat](https://github.com/Ayush-kathayat)
