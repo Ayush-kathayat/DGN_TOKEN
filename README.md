@@ -154,7 +154,7 @@ To burn tokens that are no longer needed, call the `burn` function, specifying t
 
 ## Authors
 
-[Ayush Kathayat](hosiyars281@gmail.com)
+[Ayush Kathayat](https://github.com/Ayush-kathayat)
 
 ## License
 
